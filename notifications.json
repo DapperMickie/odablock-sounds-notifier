@@ -1,0 +1,14 @@
+[
+    {
+        "title": "some notification title",
+        "message": "some message here",
+        "link": "https://odablock.net/",
+        "unique_identifier": "7a478cae-f131-4f28-9628-52bb38d69026"
+    },
+    {
+        "title": "some notification title 2",
+        "message": "some message here 2",
+        "link": "https://youtube.com/",
+        "unique_identifier": "03510f11-c4db-4eb8-9443-cff741620fce"
+    }
+]
