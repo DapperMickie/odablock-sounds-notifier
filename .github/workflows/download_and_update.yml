@@ -2,7 +2,8 @@ name: Download and Update Files
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # Runs every minute
+    - cron: '*/5 * * * *'  # Runs every minute
+  workflow_dispatch:
 
 jobs:
   download-and-commit:
