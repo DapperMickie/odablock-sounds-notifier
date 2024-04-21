@@ -1,0 +1,32 @@
+name: Download and Update Files
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
+
+jobs:
+  download-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}  # Use the GITHUB_TOKEN for checkout
+
+    - name: Download notifications.json
+      run: curl -o notifications.json http://notify.dstat.io/notifications.json
+
+    - name: Download livestream.json
+      run: curl -o livestream.json http://notify.dstat.io/livestream.json
+
+    - name: Configuring git credentials
+      run: |
+        git config --local user.email "rustenhovenmick@gmail.com"
+        git config --local user.name "DapperMickie - AutoUpdate"
+
+    - name: Commit files
+      run: |
+        git add notifications.json livestream.json
+        git commit -m "Update notifications and livestream files" || echo "No changes to commit"
+        git push
