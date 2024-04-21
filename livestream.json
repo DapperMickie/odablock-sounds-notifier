@@ -1,0 +1,10 @@
+{
+    "kick": {
+        "isLive": true,
+        "title": "Bald title here"
+    },
+    "twitch": {
+        "isLive": false,
+        "title": ""
+    }
+}
