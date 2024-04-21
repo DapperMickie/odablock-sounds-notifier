@@ -2,7 +2,7 @@ name: Download and Update Files
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 5 minutes
+    - cron: '*/1 * * * *'  # Runs every minute
 
 jobs:
   download-and-commit:
