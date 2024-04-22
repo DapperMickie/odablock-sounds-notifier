@@ -1,0 +1,28 @@
+{
+  "name": "odablock-sounds-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DapperMickie/odablock-sounds-notifier.git"
+  },
+  "author": "DapperMickie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DapperMickie/odablock-sounds-notifier/issues"
+  },
+  "homepage": "https://github.com/DapperMickie/odablock-sounds-notifier#readme",
+  "dependencies": {
+    "@octokit/core": "^6.1.2",
+    "dotenv": "^16.4.5",
+    "fetch": "^1.1.0",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2",
+    "octokit": "^3.2.0"
+  }
+}
