@@ -21,11 +21,11 @@ cron.schedule('* * * * *', () => {
     auth: process.env.GITCRED,
     request:{fetch}
   })
-  
-  octokit.request('POST /repos/{owner}/{repo}/actions/runs/{run_id}/rerun', {
+  octokit.request('POST /repos/{owner}/{repo}/actions/workflows/{workflow_id}/dispatches', {
     owner: process.env.GITOWNER,
     repo: process.env.GITREPO,
-    run_id: process.env.GITRUNJOBID,
+    workflow_id: process.env.GITHUBWORKFLOWNAME,
+    ref: 'main',
     headers: {
       'X-GitHub-Api-Version': '2022-11-28'
     }
