@@ -1,10 +1,10 @@
 {
-  "kick": {
-    "isLive": false,
-    "title": ""
-  },
-  "twitch": {
-    "isLive": false,
-    "title": ""
-  }
+    "kick": {
+        "isLive": true,
+        "title": "CG ON PVP HARDCORE | !twitter !youtube !dubby"
+    },
+    "twitch": {
+        "isLive": false,
+        "title": ""
+    }
 }
