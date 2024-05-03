@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "New Colosseum CA's !enhanced | !twitter !youtube !dubby"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
