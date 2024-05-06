@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "GM tasks finished today | !twitter !youtube !dubby !today"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
