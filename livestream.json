@@ -1,10 +1,10 @@
 {
     "kick": {
-        "isLive": false,
-        "title": ""
+        "isLive": true,
+        "title": "CG ON PVP HARDCORE | !twitter !youtube !dubby"
     },
     "twitch": {
-        "isLive": true,
-        "title": "ZUK HELM TODAY   !twitter !ig !discord"
+        "isLive": false,
+        "title": ""
     }
 }
