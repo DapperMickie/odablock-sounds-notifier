@@ -4,7 +4,7 @@
         "title": "ZAL | !twitter !youtube !dubby"
     },
     "twitch": {
-        "isLive": true,
-        "title": "UPGRADES   !twitter !ig !discord"
+        "isLive": false,
+        "title": ""
     }
 }
