@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "HCIM TANK TEST | !twitter !youtube !dubby !today"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
