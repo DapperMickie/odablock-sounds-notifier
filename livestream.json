@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "brewed down"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
