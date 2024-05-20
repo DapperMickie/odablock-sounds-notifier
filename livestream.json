@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "pvp hardcore  | !twitter !youtube !dubby !boosting"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": true,
