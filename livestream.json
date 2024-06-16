@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "DMM ALLSTARS | !twitter !youtube !dubby !boosting !breach !deaths !snipe"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
