@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "PVP arena viewer challenge"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
