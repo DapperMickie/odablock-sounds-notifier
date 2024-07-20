@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "WATCH US TAKE OVER DMM | !twitter !ctrl !youtube !dubby !swap"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
