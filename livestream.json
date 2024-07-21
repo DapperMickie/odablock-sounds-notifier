@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "DMM | !twitter !ctrl !youtube !dubby !swap !tyrot"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
