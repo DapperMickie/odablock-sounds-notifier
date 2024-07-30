@@ -1,10 +1,10 @@
 {
     "kick": {
-        "isLive": false,
-        "title": ""
+        "isLive": true,
+        "title": "DMM PKING IN MAX B2 FINALE ACC MAKING WITH THE BOYS | !twitter !ctrl !youtube !dubby !swap"
     },
     "twitch": {
-        "isLive": true,
-        "title": "DMM PKING IN MAX B2 FINALE ACC MAKING WITH THE BOYS"
+        "isLive": false,
+        "title": ""
     }
 }
