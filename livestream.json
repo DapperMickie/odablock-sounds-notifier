@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "Val /w bald man | !twitter !ctrl !youtube !dubby !swap"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
