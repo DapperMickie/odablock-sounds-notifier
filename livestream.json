@@ -1,10 +1,10 @@
 {
     "kick": {
-        "isLive": false,
-        "title": ""
+        "isLive": true,
+        "title": "DMM FINALE B2/B5| !twitter !ctrl !youtube !dubby !swap"
     },
     "twitch": {
-        "isLive": true,
-        "title": "DMM FINALE"
+        "isLive": false,
+        "title": ""
     }
 }
