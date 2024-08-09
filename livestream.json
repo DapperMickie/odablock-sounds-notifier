@@ -1,10 +1,10 @@
 {
     "kick": {
-        "isLive": false,
-        "title": ""
+        "isLive": true,
+        "title": "PVPHCIM DEAD | !twitter !ctrl !youtube !dubby !boosting"
     },
     "twitch": {
-        "isLive": true,
-        "title": "COLLAB W TFUE PKING"
+        "isLive": false,
+        "title": ""
     }
 }
