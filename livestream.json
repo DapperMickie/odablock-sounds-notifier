@@ -1,10 +1,10 @@
 {
     "kick": {
-        "isLive": false,
-        "title": ""
+        "isLive": true,
+        "title": "DAY 4 HCIM BOUNTY HUNTER RUSH| !twitter !youtube !dubby !boosting"
     },
     "twitch": {
-        "isLive": true,
-        "title": "HCIM BOUNTY HUNTER RUSH"
+        "isLive": false,
+        "title": ""
     }
 }
