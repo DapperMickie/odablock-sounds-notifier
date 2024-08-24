@@ -4,7 +4,7 @@
         "title": ""
     },
     "twitch": {
-        "isLive": true,
-        "title": "HCIM BOUNTY HUNTER RUSH"
+        "isLive": false,
+        "title": ""
     }
 }
