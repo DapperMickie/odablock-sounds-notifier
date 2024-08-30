@@ -1,10 +1,10 @@
 {
     "kick": {
-        "isLive": false,
-        "title": ""
+        "isLive": true,
+        "title": "ARRAXOR RUSH PVM TO ASAP | !twitter !youtube !dubby !boosting"
     },
     "twitch": {
-        "isLive": true,
-        "title": "HCIM BOUNTY HUNTER RUSH ALMOST 75 SLAY"
+        "isLive": false,
+        "title": ""
     }
 }
