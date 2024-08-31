@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "AINT NO WAY | !twitter !youtube !dubby"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
