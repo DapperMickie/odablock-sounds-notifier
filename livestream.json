@@ -1,10 +1,10 @@
 {
     "kick": {
-        "isLive": false,
-        "title": ""
+        "isLive": true,
+        "title": "AINT NO WAY | !twitter !youtube !dubby"
     },
     "twitch": {
-        "isLive": true,
-        "title": "HCIM BOUNTY HUNTER RUSH ALMOST 75 SLAY"
+        "isLive": false,
+        "title": ""
     }
 }
