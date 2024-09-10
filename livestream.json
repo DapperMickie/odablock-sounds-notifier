@@ -1,10 +1,10 @@
 {
     "kick": {
-        "isLive": false,
-        "title": ""
+        "isLive": true,
+        "title": "B RING RUSH TODAY FIRE CAPE MSB? | !twitter !youtube !dubby"
     },
     "twitch": {
-        "isLive": true,
-        "title": "HCIM BOUNTY HUNTER RUSH"
+        "isLive": false,
+        "title": ""
     }
 }
