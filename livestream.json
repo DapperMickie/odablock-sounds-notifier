@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "GRANDMASTER GRIND !DUBBY"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
