@@ -1,10 +1,10 @@
 {
     "kick": {
-        "isLive": false,
-        "title": ""
+        "isLive": true,
+        "title": "MUTLI MONDAYS WIT THE BOYS !dubby"
     },
     "twitch": {
-        "isLive": true,
-        "title": "MUTLI MONDAYS WIT DA STREAM"
+        "isLive": false,
+        "title": ""
     }
 }
