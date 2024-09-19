@@ -1,10 +1,10 @@
 {
     "kick": {
-        "isLive": false,
-        "title": ""
+        "isLive": true,
+        "title": "1 DEF HCIM PERILOUS MOONS !dubby"
     },
     "twitch": {
-        "isLive": true,
-        "title": "PERILOUS MOONS ATLAT GRIND SOON 1 DEF HC"
+        "isLive": false,
+        "title": ""
     }
 }
