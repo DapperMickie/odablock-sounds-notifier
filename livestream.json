@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "VIEWER CALL INS | !dubby !discord !boost"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
