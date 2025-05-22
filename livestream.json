@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "Practice with DMM team !discord !dubby !youtube !dmm !teams"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
