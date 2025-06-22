@@ -1,14 +1,10 @@
-<!doctype html>
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_aWdaW2vbODG0gE7vCY+8BUMd1elQCeeYI+ABYtgGE/NDeMxXi6cCTzNhwut7IqCKMTTozhr0DG4VudRsjWucQQ==" lang="en" style="background: #2B2B2B;">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-    <link rel="preconnect" href="https://www.google.com" crossorigin>
-</head>
-<body>
-<div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiNzBmMTEyNWUtODcwNi00ODY0LWI0ODItMTc3NzY3Y2NiMzE4IiwicGFnZV90aW1lIjoxNzUwNTcwNDAyLCJwYWdlX3VybCI6Imh0dHA6Ly9ub3RpZnkuZHN0YXQuaW8vbGl2ZXN0cmVhbS5qc29uIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0Ijoibm90aWZ5LmRzdGF0LmlvIiwiaXAiOiIyMC41Ny40Ny4yMTQifQo=";</script>
-<script src="/bUjhpJHeF.js"></script>
-</body>
-</html>
+{
+    "kick": {
+        "isLive": false,
+        "title": ""
+    },
+    "twitch": {
+        "isLive": false,
+        "title": ""
+    }
+}
