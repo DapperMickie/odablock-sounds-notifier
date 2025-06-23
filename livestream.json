@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "BILLION DOLLAR RACE | !social  !youtube !discord !dubby !race"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
