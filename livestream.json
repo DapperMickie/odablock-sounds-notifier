@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "Hardcore Minecraft with the boys | !bronzegroup !teams !social !youtube !discord"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
