@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "Trials of Gielinor brought to you by OTK !event !bronzegroup !multistream !teams !social !youtube !discord"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
