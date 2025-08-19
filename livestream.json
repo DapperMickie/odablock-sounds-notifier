@@ -1,7 +1,7 @@
 {
     "kick": {
-        "isLive": true,
-        "title": "BMM ALLSTARS CHAMPION 4/4 !event !bronzegroup !multistream !teams !social !youtube !discord"
+        "isLive": false,
+        "title": ""
     },
     "twitch": {
         "isLive": false,
